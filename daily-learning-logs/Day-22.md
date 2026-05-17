@@ -1,0 +1,3 @@
+# Day 22 - completed ✅
+- **Theory(roadmap.sh)** - Today I only read about IP addressing and subnetting - IPv4 & IPv6, subnet masks and solve their quiz.
+- <img width="1919" height="913" alt="Screenshot 2026-01-04 235029" src="https://github.com/user-attachments/assets/589ada3b-34fa-490d-95c7-3727e5a40a22" />

@@ -1,0 +1,3 @@
+## Day 9 - completed ✅
+- **Theory(roadmap.sh)** - Today I read about safeguarding your online privacy and about discover about your own risky online behaviour.And solve a mini quiz .In this way I complete protecting your data and privacy module on cisco networking academy.
+-  <img width="1919" height="1040" alt="Screenshot 2025-12-22 230319" src="https://github.com/user-attachments/assets/05a9c3ca-7aa6-4bbd-adfe-3cacb64f7042" />

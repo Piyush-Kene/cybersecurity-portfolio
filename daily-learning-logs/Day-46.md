@@ -1,0 +1,3 @@
+## Day 46 - Done ✅
+- **Practical (TryHackMe)**: - Today I read about popular suites like microsoft 365 and google suite, and on tryhackme i join new room(Intro to LAN). 
+- <img width="1763" height="436" alt="Screenshot 2026-02-20 234557" src="https://github.com/user-attachments/assets/14b5672a-925d-498c-9752-f9900838b36f" />

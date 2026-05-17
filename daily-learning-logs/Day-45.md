@@ -1,0 +1,3 @@
+## Day 45 - Done ✅
+- **Practical (TryHackMe)**: - I try to solve my current room's task 4 on tryhackme but i get failed on this tasks I can't understand why the auth failed.
+- <img width="870" height="250" alt="Screenshot 2026-02-14 234240" src="https://github.com/user-attachments/assets/85523525-6a4c-449b-8e9f-31c5e7433eef" />
